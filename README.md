@@ -1,2 +1,2 @@
 ## A markdown code intepreter and parser written in PHP language.
-#### WORK IN PROGRAESS!!!
+### WORK IN PROGRESS!!!
